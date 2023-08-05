@@ -8,6 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # My comments:
+0. This task is according https://react.dev/learn  (chapter Creating and nesting components)
+
+
 1. index.html --> main.jsx(import App.jsx,styles.css) --> App.jsx :  how project starts
 
 2. I put these files in '.gitignore' folder:
